@@ -36,7 +36,7 @@
 
 <pre><code>node server.js</code></pre>
 
-<p>Le serveur API sera lancé sur <code>http://localhost:4000</code>.</p>
+<p>Le serveur API sera lancé sur <code>http://localhost:3000</code>.</p>
 
 <ol start="2">
     <li><strong>Lancer l'application web :</strong></li>
@@ -46,7 +46,7 @@
 
 <pre><code>node index.js</code></pre>
 
-<p>L'application web sera lancée sur <code>http://localhost:3000</code>.</p>
+<p>L'application web sera lancée sur <code>http://localhost:4000</code>.</p>
 
 <h2>Utilisation</h2>
 
